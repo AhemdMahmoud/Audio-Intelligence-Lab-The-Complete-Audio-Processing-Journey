@@ -6,13 +6,26 @@ This repository contains code, tutorials, and resources for a comprehensive audi
 ## Current Content
 The repository currently includes:
 
-1 - **ExploreAudio**: Basic exploration of audio datasets using the PolyAI/minds14 dataset
+### 1 - **ExploreAudio**: Basic exploration of audio datasets using the PolyAI/minds14 dataset
   - Loading and examining audio data
   - Visualizing audio waveforms
   - Audio preprocessing techniques
   - Working with feature extraction for machine learning
   - Handling large audio datasets with streaming mode
+    
+### 2- PreTrainedAudioModels: Working with pre-trained models for various audio tasks
 
+- Audio classification using Hugging Face pipelines
+- Automatic Speech Recognition (ASR) implementation
+- Text-to-Speech generation techniques
+- Controlling output parameters with max_tokens
+- Working with specialized audio models (MusicGen)
+- Passing additional parameters to audio pipelines
+- Spectrogram visualization and analysis
+
+
+
+This section builds nicely on the exploration covered in the first part, showing how to apply pre-trained models to the audio data you've learned to work with.
 ## What's Coming
 This is an evolving course that will be progressively expanded with the following topics:
 
